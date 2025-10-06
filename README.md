@@ -6,3 +6,4 @@ Membuat File baru dengan nama file Lab3_tabel.html <img width="1366" height="768
 Menggambungkan Sel data <img width="1366" height="768" alt="Cuplikan layar 2025-10-06 130430" src="https://github.com/user-attachments/assets/7278f0ae-997a-43b6-9d76-998344b45ee2" />
 Buat File baru dengan nama file Lab3_form.html <img width="1366" height="768" alt="Cuplikan layar 2025-10-06 130851" src="https://github.com/user-attachments/assets/c5df37e2-3bc0-42ce-b69b-8a2bb76d7968" />
 Menambahkan Style CSS pada file form <img width="1366" height="768" alt="Cuplikan layar 2025-10-06 131022" src="https://github.com/user-attachments/assets/bf98b330-ec55-4117-86df-922986efa037" />
+Membuat File dropdown menu dan listbox dengan multiple selection <img width="1366" height="768" alt="Cuplikan layar 2025-10-06 133322" src="https://github.com/user-attachments/assets/98fd3763-cf44-4fbf-af3a-bf8d185af78d" />
